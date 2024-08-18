@@ -1,0 +1,5 @@
+promotion_id,promotion_type,dollar_discount,percent_discount,qualifying_products,units_required,free_product_ids,length,valid_from,valid_to
+0,percent_discount,,0.03,AVpfjP9uilAPnD_xdy6- AVpfPEx61cnluZ0-gyT9 AVpfMVD-ilAPnD_xW6bu,3,,,2019-01-01 01:00:00,
+1,percent_discount,,0.05,AVphq88q1cnluZ0-FFwx AVpfZaCp1cnluZ0-kDV9 AVqVGUFCv8e3D1O-ldFF,5,,,2019-01-01 01:00:00,
+2,percent_discount,,0.07,"AVpge6k2LJeJML43OhAl AVpfYKih1cnluZ0-jsHP AVpfeG5oilAPnD_xcTsG
+ AVpiHEE31cnluZ0-J8jJ",4,,30.0,2019-09-01 01:00:00,2019-10-01 01:00:00
